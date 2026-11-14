@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**AC6878/AC6878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Animesh 👋
 
-Here are some ideas to get you started:
+Ph.D. Researcher @ Cornell University | Ex-Founder/Entrepreneur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI · Scientific Discovery · Systems Engineering**
+
+### Research & Development
+
+![Repositories](https://img.shields.io/badge/Repositories-6-24292f?style=flat-square&logo=github&logoColor=white)
+
+Projects on trustworthy AI for heterogenous data reasoning spanning cancer therapeutics, materials discovery & financial intelligenc.
+
+Research repositories are maintained privately.
